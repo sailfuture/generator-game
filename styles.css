@@ -1,0 +1,47 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.phrase {
+}
+
+button.generate-phrase {
+}
+
+button.generate-phrase:hover {
+}
+
+button.generate-phrase:active {
+}
+
+button.generate-phrase:focus {
+}
+
+@keyframes shake {
+  20% {
+    transform: rotate(-5deg);
+  }
+
+  40% {
+    transform: rotate(5deg);
+  }
+
+  60% {
+    transform: rotate(-2deg);
+  }
+
+  70% {
+    transform: rotate(2deg);
+  }
+}
