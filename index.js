@@ -1,9 +1,9 @@
 // Random phrase generator
 
 // Define word lists
-const creditscore = ["600", "650", "700", "750", "800", "850"];
-const loanterm = ["15 years", "20 years", "30 years", "40 years"];
-const downpayment = ["5%", "10%", "15%", "20%", "25%"];
+const creditscore= ["Randomized events", "Randomized item drops", "Critical hit chances", "Randomized power-ups", "Time-limited challenges"];
+const loanterm = ["Time-based scoring", "Race-against-the-clock gameplay", "Timed power-ups", "Periodic events"];
+const downpayment = ["Team-based leveling", "One-on-one duels", "Multiplier bonuses", "Special abilities", "Progression-based rewards"];
 
 // Pick a random word from a list
 const pickRandomWord = (listOfWords) => {
